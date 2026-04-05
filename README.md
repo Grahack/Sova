@@ -31,7 +31,7 @@ cd Sova
 cargo run -p sova-desktop --release    # requires Rust (latest stable)
 ```
 
-Pre-built releases are available on the [Releases](https://github.com/Bubobubobubobubo/Sova/releases) page.
+Pre-built releases are available at <https://sova.livecoding.fr/>.
 
 ## Build
 
